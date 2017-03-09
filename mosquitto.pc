@@ -1,0 +1,6 @@
+Name: mosquitto
+Description: Mosquitto Client Library
+Version: 1.4.11
+Requires:
+Libs: -L/usr/local/lib -lmosquitto
+Cflags: -I/usr/local/include
